@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me just email me.
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I will try to learn python in my summer holidays 
 
 <!---
